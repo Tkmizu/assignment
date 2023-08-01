@@ -1,0 +1,2921 @@
+fileFormatVersion: 2
+guid: 2d3838f2c13a5bb428a58f1e77527821
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc1d2843e3601b45857199908f7425b
+      internalID: -789439631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 565
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b27b1105c2a4db4f9e6def79dfdcfe9
+      internalID: -1903761033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 558
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd00d329aa9328499e375ad35fb1731
+      internalID: 1785545764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 552
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5731ce403ebf83b47929ed44a41d5d57
+      internalID: 636258835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 546
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9839a5668eba2468d2b4cbcfe9d408
+      internalID: -1688066929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 408
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f166953a990ab74fb162f287420f7f3
+      internalID: 485228734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 404
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdd7d448fcf14f42985c075ead38aff
+      internalID: 1569392813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 403
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c5b30616a368b4fb6ded2323e78f43
+      internalID: -336905414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 400
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045fa32d7e0d1e4e84d79cdf59b6a28
+      internalID: 1163199308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 412
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26adc141de9f15f49877d1e4f64dbccc
+      internalID: -951550763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 443
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260a9c272ff2f6e4fa3bd7da0e3e9f60
+      internalID: 1961385083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 111
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953cd12519618fa45a1a9ce0a2b41667
+      internalID: -1090647289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 362
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b1522c3f4b11499fe4823e1ff3ff6
+      internalID: -1895319318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 145
+        width: 124
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36991a7319a3af4782f6958d5721fe6
+      internalID: -1226370241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 366
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2622460f04f946ae8345e3198681f
+      internalID: 1707391866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 130
+        width: 121
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9dc8d0aeaf64044aa5e453a3d14a53
+      internalID: -1636585062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 369
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f9893600a2ab643a7f1aca52be0aa4
+      internalID: 332536900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 130
+        width: 131
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ab2e2724d8a0a4598c2dfd9abac400
+      internalID: 640066850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 365
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729c26a5eb26dd644a2fcc101139025a
+      internalID: -532948880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 368
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec8c7f500d8e249adb8715e9148c39
+      internalID: -1647034325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 363
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08156a67ff2229b428470fc83e585f86
+      internalID: 588731870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 370
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b44abbf63b4a14449aa85c9e7bb53ae
+      internalID: -1266009402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 357
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9136b6b8c2cc4134eb7a834003088cc5
+      internalID: -630773409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 352
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48294b2d888c3d4e9c8f98b040f4e9d
+      internalID: 1320035693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 263
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7562cd2deee0ad94fab4c2ceb9e4e8ad
+      internalID: -1645397491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec00474d58b72248a19b2b38c91f589
+      internalID: -1537453048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 344
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ea881967b7bd42ba9ecfde4ca8fa8
+      internalID: 326687330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 345
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de09775c4cd2c544b1f459755a3d2b4
+      internalID: 953647123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 331
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1686d581b28bc0c4da55df0b61a0bc92
+      internalID: -1870318767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 346
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ff77b0d811d1f4c9296faa748dd013
+      internalID: 840192959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 350
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f399a9768bbb44ba2f5cea22fdc9df
+      internalID: 1859610043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 341
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa29e40edc90bfd4587a8e69a0d387e5
+      internalID: -137302083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 337
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ebb37742f7dc341a5d63c399bea610
+      internalID: 1118878133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 334
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38d1abaf584b64d8783fffc6bd5209
+      internalID: 191260415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 337
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ee92e6873f3c4d988187d004ddeca
+      internalID: -2120860635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 335
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b913df7a5c801b543af94316b52651e1
+      internalID: 211721574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 337
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061be79d39a28354caf39ba2329521e3
+      internalID: -1334484452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 335
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f198f8c58b6854ea81efc65e2d8c36
+      internalID: 836097968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 338
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb7adfaa42f4ae4a9f525da6d388c20
+      internalID: -758606306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 335
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4136c5b24db51394faa2501041dc1e9d
+      internalID: -1229253721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 330
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68221cd71ae53c479f8e46f72d82f03
+      internalID: 1552990783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 331
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a96505fc0cb046bb03ca1d3a39a81
+      internalID: -1124128169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 331
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe28176983ca74d4f8b56d0c4f332510
+      internalID: -2092588444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 331
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cfef8e2a504b747b13d5f6ecc98d7f
+      internalID: -805984675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 331
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a719b937a6ed438b5b670f440cab3
+      internalID: -1601335879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 318
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6631337497dc59e4498cb400100fe2e5
+      internalID: 2143417074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 318
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb7012a81392ff4eb30b9e930d2d653
+      internalID: 217927983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 307
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c1761acd15e5a4da2e268789c5a262
+      internalID: -1588051045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 302
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c71063e5dac494db029cbf81ac5398
+      internalID: 167303502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 313
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e37dae7de6e6a44a0b20aa8a1030c4
+      internalID: 41753137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 289
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d1bf1c39150ee4aadc45a3849781e8
+      internalID: 643040130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 312
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4a7836e70cf4c48a2cf378cd3bd54b
+      internalID: 1166952830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 303
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62afda5eedee4fd4baef754f4742339e
+      internalID: -2042691093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 302
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc80052d0b15554090d26d0d6a964ec
+      internalID: 2130206021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 306
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240e55fc0eb4c694e9888d52237e0607
+      internalID: -1028792882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 302
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a00b52f10a1743874ac87ffb0bcc5
+      internalID: -134711085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 306
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c060c844e7b841b0985aab1946bbb
+      internalID: 1279833745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 301
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608207e698bd3b743ae9efdb4410ed4e
+      internalID: 282009500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 300
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c568b15010c6b4ba381305ae0ac9ed
+      internalID: 370841852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 296
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87b4854546d48d4fa1326550436d52f
+      internalID: -449468115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 298
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2151750dd54f04f93f29b1480b504c
+      internalID: 971247752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 297
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaa768588f88b646b63cfc7787cfaf6
+      internalID: 344220418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a29c3509d2b940aad83248b559bb9
+      internalID: 2082709152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 291
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b68d88dcdb094080bf9ae1736c6f5
+      internalID: -1299975108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ebe9c6dad9aec42b03b2709a3c7f23
+      internalID: -419652253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abe5c516143d1943aee5ece72fd7b51
+      internalID: 1070153432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 280
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5306bf23acdac0b4cac73782e52598ae
+      internalID: -800348759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 285
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e45a883c1db4ae409b5e447477824c5
+      internalID: 900176944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 279
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa8f406b68acdd4ea3da7dda4626da6
+      internalID: 2000479143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 281
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e927bf12ebb52d40b34fa78a9b109be
+      internalID: 1110539192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 284
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b2e20549137a4f8a135933bcdb2b6
+      internalID: -486726631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 278
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dcadd749cfc5d46af2dd1c74660ed2
+      internalID: 895392134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 280
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc7a034d544464c9b11684f8b5e978
+      internalID: 482346741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 276
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc4102f02e6a5445a181a0f5e5b4808
+      internalID: 1000688566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 268
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a62005268ad27142a3f6d9e6de23bea
+      internalID: -2006858477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 274
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ba2a160d5d1384e840143a4cda5245
+      internalID: 1103736686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301a76e5b4f95f4fb28697dbaf34ac8
+      internalID: 1614820817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 272
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7010deddc122a7148b3d5733c255afdf
+      internalID: -5922453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 271
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5021e2f2dfd7c94f95abc93230d359a
+      internalID: -95931625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 268
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df877be996794d54eb12519138cf8cba
+      internalID: 1202888693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 267
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277567c7a2e4ffb4ea3540e69bc07e1f
+      internalID: -724123953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 265
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929f3982a542584987a00727046d65c
+      internalID: 1789950733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 264
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba08350ba7ffe408eba0e1c9771d18
+      internalID: 1033746740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 233
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840165070a9d6241bcee67a270b9013
+      internalID: 2087525570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 234
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89697839daf6bbf4dae3a72aa85fd3c8
+      internalID: 696285318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 234
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3a632dbe7f756429e48038ad964cba
+      internalID: -111873785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 235
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba00c980e59a74fa89ec32f774e95d
+      internalID: 46691958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 235
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1be56b3311b2e40b66ffcf4d778daf
+      internalID: -924610265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 229
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414ccaa3dca751046bbbcb7d0989913b
+      internalID: 563435319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 130
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d5415943db0474e9e98cb6387ba637
+      internalID: -689305109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 93
+        width: 89
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efaa79837f27cd41b6137171153342b
+      internalID: 1188698655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 227
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5ea6dd00b63343b70692a44ab863d
+      internalID: 1981170066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 132
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc700dc4c6e16458bb21872e6ac745
+      internalID: -530726342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 231
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48be6449e1f8a2a4a834e4d87b6ea459
+      internalID: -517316417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 228
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71456638d897a454399607b69d27f898
+      internalID: -1579572224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 228
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ab096080cc3c24f88bd6e45d6987f9
+      internalID: 2041046666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 216
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e686610e532d743b1833eea3912808
+      internalID: 548307545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8aa7d21c9a5a9418ccec7f2dec4dcb
+      internalID: 2021454948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 216
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1409c37ded64d847be30d4bdfa2f219
+      internalID: 1254862692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 218
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c077ea8b3f66b44b36561614654649
+      internalID: -1490549205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 216
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52d504727574d34ba09bcccb3e3125c
+      internalID: 1687473153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 170
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212e42f7e20ae944189f65748b7ed1ea
+      internalID: 552541641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 170
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72fcc6cefdfb9d41b7a14717fba4464
+      internalID: 1715261960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 218
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb963f0460bd7e479286aff1441042e
+      internalID: -254534858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 205
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daad522daf25b1e48b856854f97fd55e
+      internalID: 486845052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 207
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f913c125bed3b984caafe0ae7d7550bd
+      internalID: 1017777907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8115bd70b1876bc4bbad5cbb1ebe2a7c
+      internalID: 1747958573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 208
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ee336eb36fc7419cdcb9292dac3fc
+      internalID: -102611118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ff802d0285d84aa5c029a283c15d4
+      internalID: 1837504224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 201
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed21334a94870845ae95a08543218fd
+      internalID: 1444423516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 182
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ec3d24e749d4c4fb468e441b8fc636
+      internalID: -623752294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 170
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bcab7dc9d21114a824673eca921c6c
+      internalID: 1299189504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 159
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ffb7129ec5a574b8cce09da43ab06d
+      internalID: 1702102779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 159
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333fb3d72ed7baf488266c7eaefe9bde
+      internalID: -49169329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5a238864abd514ea25b93de31254df
+      internalID: 2079970430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 148
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a6bbf57b45b44b99b854cd103e495
+      internalID: -421146187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 150
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95efbd68ce3494f8ff71f82175304c
+      internalID: -134165388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_121
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 150
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e582902fd952f44fb6f9372b3166d9a
+      internalID: 1981621538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 148
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9459964974c314d48b2cd9e8fa603437
+      internalID: -1113836955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_123
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 141
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec3b14daa1b413428a3150ec1c3dffa
+      internalID: 378615044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_124
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 140
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c75b6e64d57c49adc371537b0f764
+      internalID: -713063659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_125
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 140
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b9ab3a5737902468b2156f4bce40fe
+      internalID: 1400899861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_126
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 139
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d860d480af36c44898c7887182b32a
+      internalID: 1798623756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_127
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cf60ab4399abd4086039712fd919f0
+      internalID: 2128470289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_128
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 8
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1a2a48c31d50943b72cb5244ce7685
+      internalID: 517473151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_129
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 8
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a710bf2a68e2449997072e1b5c4a68
+      internalID: 2040026623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_realistic-explosion-png_3897527 (1)_130
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 9
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7b47f239f6961418a147ecde2df40c
+      internalID: 1586370448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NicePng_realistic-explosion-png_3897527 (1)_78: -2006858477
+      NicePng_realistic-explosion-png_3897527 (1)_59: -134711085
+      NicePng_realistic-explosion-png_3897527 (1)_82: -95931625
+      NicePng_realistic-explosion-png_3897527 (1)_114: -623752294
+      NicePng_realistic-explosion-png_3897527 (1)_101: 2021454948
+      NicePng_realistic-explosion-png_3897527 (1)_28: -1645397491
+      NicePng_realistic-explosion-png_3897527 (1)_129: 2040026623
+      NicePng_realistic-explosion-png_3897527 (1)_89: -111873785
+      NicePng_realistic-explosion-png_3897527 (1)_119: -421146187
+      NicePng_realistic-explosion-png_3897527 (1)_97: -517316417
+      NicePng_realistic-explosion-png_3897527 (1)_92: 563435319
+      NicePng_realistic-explosion-png_3897527 (1)_88: 696285318
+      NicePng_realistic-explosion-png_3897527 (1)_65: 344220418
+      NicePng_realistic-explosion-png_3897527 (1)_18: -1636585062
+      NicePng_realistic-explosion-png_3897527 (1)_112: 1837504224
+      NicePng_realistic-explosion-png_3897527 (1)_52: 167303502
+      NicePng_realistic-explosion-png_3897527 (1)_68: -419652253
+      NicePng_realistic-explosion-png_3897527 (1)_90: 46691958
+      NicePng_realistic-explosion-png_3897527 (1)_57: 2130206021
+      NicePng_realistic-explosion-png_3897527 (1)_67: -1299975108
+      NicePng_realistic-explosion-png_3897527 (1)_26: -630773409
+      NicePng_realistic-explosion-png_3897527 (1)_127: 2128470289
+      NicePng_realistic-explosion-png_3897527 (1)_56: -2042691093
+      NicePng_realistic-explosion-png_3897527 (1)_93: -689305109
+      NicePng_realistic-explosion-png_3897527 (1)_2: 1785545764
+      NicePng_realistic-explosion-png_3897527 (1)_44: 1552990783
+      NicePng_realistic-explosion-png_3897527 (1)_30: 326687330
+      NicePng_realistic-explosion-png_3897527 (1)_80: 1614820817
+      NicePng_realistic-explosion-png_3897527 (1)_15: -1895319318
+      NicePng_realistic-explosion-png_3897527 (1)_40: -1334484452
+      NicePng_realistic-explosion-png_3897527 (1)_42: -758606306
+      NicePng_realistic-explosion-png_3897527 (1)_48: -1601335879
+      NicePng_realistic-explosion-png_3897527 (1)_130: 1586370448
+      NicePng_realistic-explosion-png_3897527 (1)_123: 378615044
+      NicePng_realistic-explosion-png_3897527 (1)_10: -951550763
+      NicePng_realistic-explosion-png_3897527 (1)_124: -713063659
+      NicePng_realistic-explosion-png_3897527 (1)_7: -1985522488
+      NicePng_realistic-explosion-png_3897527 (1)_34: 1859610043
+      NicePng_realistic-explosion-png_3897527 (1)_60: 1279833745
+      NicePng_realistic-explosion-png_3897527 (1)_38: -2120860635
+      NicePng_realistic-explosion-png_3897527 (1)_0: -789439631
+      NicePng_realistic-explosion-png_3897527 (1)_107: -254534858
+      NicePng_realistic-explosion-png_3897527 (1)_95: 1981170066
+      NicePng_realistic-explosion-png_3897527 (1)_5: 485228734
+      NicePng_realistic-explosion-png_3897527 (1)_125: 1400899861
+      NicePng_realistic-explosion-png_3897527 (1)_61: 282009500
+      NicePng_realistic-explosion-png_3897527 (1)_11: 1961385083
+      NicePng_realistic-explosion-png_3897527 (1)_29: -1537453048
+      NicePng_realistic-explosion-png_3897527 (1)_35: -137302083
+      NicePng_realistic-explosion-png_3897527 (1)_12: 176462497
+      NicePng_realistic-explosion-png_3897527 (1)_19: 332536900
+      NicePng_realistic-explosion-png_3897527 (1)_108: 486845052
+      NicePng_realistic-explosion-png_3897527 (1)_47: -805984675
+      NicePng_realistic-explosion-png_3897527 (1)_98: -1579572224
+      NicePng_realistic-explosion-png_3897527 (1)_115: 1299189504
+      NicePng_realistic-explosion-png_3897527 (1)_55: 1166952830
+      NicePng_realistic-explosion-png_3897527 (1)_121: 1981621538
+      NicePng_realistic-explosion-png_3897527 (1)_1: -1903761033
+      NicePng_realistic-explosion-png_3897527 (1)_6: 1569392813
+      NicePng_realistic-explosion-png_3897527 (1)_51: -1588051045
+      NicePng_realistic-explosion-png_3897527 (1)_104: 1687473153
+      NicePng_realistic-explosion-png_3897527 (1)_74: -486726631
+      NicePng_realistic-explosion-png_3897527 (1)_99: 2041046666
+      NicePng_realistic-explosion-png_3897527 (1)_103: -1490549205
+      NicePng_realistic-explosion-png_3897527 (1)_50: 217927983
+      NicePng_realistic-explosion-png_3897527 (1)_21: -1601374045
+      NicePng_realistic-explosion-png_3897527 (1)_73: 1110539192
+      NicePng_realistic-explosion-png_3897527 (1)_109: 1017777907
+      NicePng_realistic-explosion-png_3897527 (1)_105: 552541641
+      NicePng_realistic-explosion-png_3897527 (1)_58: -1028792882
+      NicePng_realistic-explosion-png_3897527 (1)_128: 517473151
+      NicePng_realistic-explosion-png_3897527 (1)_36: 1118878133
+      NicePng_realistic-explosion-png_3897527 (1)_23: -1647034325
+      NicePng_realistic-explosion-png_3897527 (1)_79: 1103736686
+      NicePng_realistic-explosion-png_3897527 (1)_91: -924610265
+      NicePng_realistic-explosion-png_3897527 (1)_117: -49169329
+      NicePng_realistic-explosion-png_3897527 (1)_72: 2000479143
+      NicePng_realistic-explosion-png_3897527 (1)_106: 1715261960
+      NicePng_realistic-explosion-png_3897527 (1)_63: -449468115
+      NicePng_realistic-explosion-png_3897527 (1)_45: -1124128169
+      NicePng_realistic-explosion-png_3897527 (1)_84: -724123953
+      NicePng_realistic-explosion-png_3897527 (1)_120: -134165388
+      NicePng_realistic-explosion-png_3897527 (1)_3: 636258835
+      NicePng_realistic-explosion-png_3897527 (1)_70: -800348759
+      NicePng_realistic-explosion-png_3897527 (1)_46: -2092588444
+      NicePng_realistic-explosion-png_3897527 (1)_113: 1444423516
+      NicePng_realistic-explosion-png_3897527 (1)_96: -530726342
+      NicePng_realistic-explosion-png_3897527 (1)_54: 643040130
+      NicePng_realistic-explosion-png_3897527 (1)_75: 895392134
+      NicePng_realistic-explosion-png_3897527 (1)_24: 588731870
+      NicePng_realistic-explosion-png_3897527 (1)_43: -1229253721
+      NicePng_realistic-explosion-png_3897527 (1)_4: -1688066929
+      NicePng_realistic-explosion-png_3897527 (1)_39: 211721574
+      NicePng_realistic-explosion-png_3897527 (1)_17: 1707391866
+      NicePng_realistic-explosion-png_3897527 (1)_20: 640066850
+      NicePng_realistic-explosion-png_3897527 (1)_85: 1789950733
+      NicePng_realistic-explosion-png_3897527 (1)_9: 1163199308
+      NicePng_realistic-explosion-png_3897527 (1)_41: 836097968
+      NicePng_realistic-explosion-png_3897527 (1)_83: 1202888693
+      NicePng_realistic-explosion-png_3897527 (1)_49: 2143417074
+      NicePng_realistic-explosion-png_3897527 (1)_87: 2087525570
+      NicePng_realistic-explosion-png_3897527 (1)_76: 482346741
+      NicePng_realistic-explosion-png_3897527 (1)_64: 971247752
+      NicePng_realistic-explosion-png_3897527 (1)_37: 191260415
+      NicePng_realistic-explosion-png_3897527 (1)_126: 1798623756
+      NicePng_realistic-explosion-png_3897527 (1)_122: -1113836955
+      NicePng_realistic-explosion-png_3897527 (1)_8: -336905414
+      NicePng_realistic-explosion-png_3897527 (1)_116: 1702102779
+      NicePng_realistic-explosion-png_3897527 (1)_53: 41753137
+      NicePng_realistic-explosion-png_3897527 (1)_77: 1000688566
+      NicePng_realistic-explosion-png_3897527 (1)_94: 1188698655
+      NicePng_realistic-explosion-png_3897527 (1)_27: 1320035693
+      NicePng_realistic-explosion-png_3897527 (1)_32: -1870318767
+      NicePng_realistic-explosion-png_3897527 (1)_86: 1033746740
+      NicePng_realistic-explosion-png_3897527 (1)_25: -1266009402
+      NicePng_realistic-explosion-png_3897527 (1)_110: 1747958573
+      NicePng_realistic-explosion-png_3897527 (1)_31: 953647123
+      NicePng_realistic-explosion-png_3897527 (1)_66: 2082709152
+      NicePng_realistic-explosion-png_3897527 (1)_102: 1254862692
+      NicePng_realistic-explosion-png_3897527 (1)_33: 840192959
+      NicePng_realistic-explosion-png_3897527 (1)_111: -102611118
+      NicePng_realistic-explosion-png_3897527 (1)_13: 1336655269
+      NicePng_realistic-explosion-png_3897527 (1)_118: 2079970430
+      NicePng_realistic-explosion-png_3897527 (1)_71: 900176944
+      NicePng_realistic-explosion-png_3897527 (1)_81: -5922453
+      NicePng_realistic-explosion-png_3897527 (1)_16: -1226370241
+      NicePng_realistic-explosion-png_3897527 (1)_14: -1090647289
+      NicePng_realistic-explosion-png_3897527 (1)_22: -532948880
+      NicePng_realistic-explosion-png_3897527 (1)_69: 1070153432
+      NicePng_realistic-explosion-png_3897527 (1)_100: 548307545
+      NicePng_realistic-explosion-png_3897527 (1)_62: 370841852
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

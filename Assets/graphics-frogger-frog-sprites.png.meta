@@ -1,0 +1,2235 @@
+fileFormatVersion: 2
+guid: 1fa7692cfdb1d404599f683a25c71fed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 341
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666138ea9142f644b6e5c7a4300d909
+      internalID: -150283095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e138bb65ad78247ab8ad81fc04e518
+      internalID: 837879347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 341
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd02bf095a48a6547b252e08d0286dae
+      internalID: -1314614825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 342
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492d7fc46e1dac84da8192d919d00732
+      internalID: 118721146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dffeecdd299ee84f92ee21dd51d2e39
+      internalID: -407156055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 342
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70de29312ccdccb4abd93cc0df5998ad
+      internalID: -621740786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 342
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5621330ac5d9274f83c4286c3beca55
+      internalID: 872558903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac9c09dde0f0f64a98f19cb3624d1e8
+      internalID: -1680751649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 342
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbd588ae98cae14b9f4de1977795b54
+      internalID: -2115462868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9571d055fbf9ee24b8835d9bb1b15cb8
+      internalID: 2098343742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 340
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3a11357ed90974c9aafbf5e76291ba
+      internalID: 481209580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 342
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b85ec577bdfb8a41b6d1e456ac0f564
+      internalID: 2133741650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13889bcbca6beab4580d6547e0c7494b
+      internalID: 730384182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 290
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67117952b4ed5141ac99a2047ca4d84
+      internalID: 239113759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 291
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fc1098bb9789f47904274f7e568685
+      internalID: -1448814588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 291
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5626d002b545484598f3e5f5fb8867c
+      internalID: -334203481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 290
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a74f8a2da26ea64d90feb88b46ff9b3
+      internalID: -1384597899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 291
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9446c449b5bd68642bf4b99de2fee634
+      internalID: -1421146630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 291
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aeddc6274a9c8439fabc3de4af8782
+      internalID: -202792036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 290
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f269c2c4437a4fa5d815948c4f1a2
+      internalID: 159928345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 291
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deafdee7fa8d45a42a091c450433c573
+      internalID: 1120816028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 291
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542a22579b5f0fc4fb599b4a17dc9c12
+      internalID: -1418693814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 290
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4631f159dba6d4548a50472517918b25
+      internalID: -12968600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 291
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f263df3cb6ed8e40b59e6ea5c9cf534
+      internalID: 138678481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b581f8299df14da0f80026f29d04d
+      internalID: 232924489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 242
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a432931f32469946b60e6cbf186b514
+      internalID: -2093989733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 243
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d10d1de32faea24da3cb7e05ce0fef5
+      internalID: 541365834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 243
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3d3dca81fdd4d4796727f8f140ff1f
+      internalID: -347596061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 242
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5ced8b1cbdcbb4aa5e86b9919ee5c1
+      internalID: -2063457651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 243
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364d23398505d04780b02c99614a6cf
+      internalID: 1695808927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 243
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7614f3b8fdb5e7549b3cc6b15677f723
+      internalID: -979232212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 242
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7de51c0eee0e842961329f35420dc6
+      internalID: -1037307697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 243
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58b4855469ea1243967e73e6a828770
+      internalID: 1023069231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 243
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17fecccf94992d4e8c99fa3be31c8b5
+      internalID: 910155856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 242
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2eb8709e16da34d8dbc5efbd0ebc57
+      internalID: -1912518869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 243
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52cf68c9710694469c95c6cdbb09f89
+      internalID: 377801315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b1ddd062d420a419fcdaaf4e60acdb
+      internalID: 2010564688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 196
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174a17455aa3b8d4b90f40a11539d95b
+      internalID: -1543125738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7551a7a379d8094eb722304855ac28f
+      internalID: 1118752625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ee35524c0277b49adfffacc6a5bbbd
+      internalID: -1829444085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 197
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412639d8aa92b9746a94be839d353dfe
+      internalID: -327810455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017c5ce03640a2a47b1a2f36937540af
+      internalID: 1083812249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be367344c4df59643821ab9aa28e2abb
+      internalID: -253952546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 197
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f424cd84a42d4d81a6eb59405f1ee
+      internalID: -1821379929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_44
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad2b906113a854aa3bdc6668388e9a
+      internalID: 1672075761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2cd5cfb2e6ddb44b6abd13cb3182d0
+      internalID: -1723605441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 197
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab1203ba62839d4baa64b38e9cf562e
+      internalID: 292987703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad466f0da36937247bf2003d58642360
+      internalID: 782807990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 147
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84b779a44430d24ca7949db1701efdb
+      internalID: 147133791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 147
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee15d6685791ad4d9a34190427b0c81
+      internalID: -1724218880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 147
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b854d6b1b8ec94996c1b3bad754cf3
+      internalID: 1957420077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 148
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e32cc18b1057e42bda9389ac325392
+      internalID: 530397162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 148
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a948462489ca51447aa692e84c880253
+      internalID: 322797157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_53
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 148
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6964857ee3477ae419ccc8b21ad028c5
+      internalID: 1199658460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 148
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b01c46de378a49bc37dd0cb73539e
+      internalID: -179633706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_55
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 148
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9cfaccfa573f4439b6211e5423e543
+      internalID: 664543887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 148
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b565a31a791d1498f5e7cc6a344176
+      internalID: 307303228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 148
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad4591c3b1887a4a9dc8c9db4f97ff4
+      internalID: -355841349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_58
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 148
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa185c52916335e4fadf649eaa4e6365
+      internalID: -1208906054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_59
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 148
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da03d8017c7b8d949924e4461aa96726
+      internalID: 62521026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87395887ec75054b9ffd59ec117c0fe
+      internalID: 1527830126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 97
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bab783a0dfa5ec4792db49ace3aa4fc
+      internalID: -1306441890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b687b3c6fe6f34b81ebe3a84710d5f
+      internalID: -985790665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 98
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5e9fc76f89a2a42a46883c1e0ca885
+      internalID: -696349809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 98
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc383897de9364d850b72d4d52f21a
+      internalID: 1077306361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_65
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 98
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a9139b037a76f47b1b1de6e7819e03
+      internalID: -1795745723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_66
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 98
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a1c0c1f50b3fc4989c9adfb37656f4
+      internalID: -278808027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_67
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 98
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2845a5781d0cc9645a9007fe1f38bb28
+      internalID: -1252971245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 98
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c764e750b1ea04ca205c4f635ed4d6
+      internalID: -297693993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_69
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 98
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302bcecf59f1134cb375d6d8436af37
+      internalID: 1589829738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 98
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e3ede60faae948b9631260721e6e9
+      internalID: 594516712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_71
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 98
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc24ab3814f75584ebf24eef405d3a46
+      internalID: -102527046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 49
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45f3241241bcbd47b03dce4baa05604
+      internalID: -1065109587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 49
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c176e7d1a5ab7a5419cf47ab963d356c
+      internalID: 2126724234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 49
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eddde50677e0b45865de9e0e41ca49
+      internalID: 1968815871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_75
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b70ac22e2d8e4bad126e85d117d6c
+      internalID: -140202440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_76
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b073fb6fde507545a84af5adaed57ea
+      internalID: 1070961082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_77
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d56a897a23404da6260372d67e2b8
+      internalID: -455436989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 50
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4536be65ecbf74cbc1beda08c5b9ff
+      internalID: -247073554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_79
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 50
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554e995055c55384ba7e5a6959f20a12
+      internalID: 1813566342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 50
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d3238e4f9cc3b4992c98ef75caea50
+      internalID: 522299749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_81
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 50
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9925e693043984ab7fb80ddd7d1f17
+      internalID: 634853967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_82
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 50
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2073834ee18e948a715e9cb27ddf8d
+      internalID: -2050273028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 50
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd66501ba48aa484e864bbee664faaee
+      internalID: -1561136314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf78f0ca1b8bef4685aff9030cb8338
+      internalID: 324310050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_85
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef641c701eee4c419840405b17e61fb
+      internalID: -779181721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_86
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9849cc7ee46e143851ee3a7752a50d
+      internalID: -539672407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16eb859c6e4b904b94679b5bf610d8c
+      internalID: 1054682727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 5
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d231e9535db16b147ba3441aed537913
+      internalID: -1481930175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_89
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 5
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96085fab8a1931f458697d7fa31f0214
+      internalID: 1653274006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817503d10d55d74f87f21a4ea2143c1
+      internalID: -84053821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_91
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57330e7721cc0ff4f81b451b46a8ab73
+      internalID: -408707572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_92
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 5
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b347d388c548c409cb90bf43a413e5
+      internalID: -1006784901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_93
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 5
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c566679ad14fba4ebb19be9d4ffa660
+      internalID: -1218546720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_94
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec08a0620778a4c4d9b5fd310abc04ae
+      internalID: -996445545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graphics-frogger-frog-sprites_95
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 5
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be6246c5f5556a46a24298f698f0de1
+      internalID: -400695447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      graphics-frogger-frog-sprites_89: 1653274006
+      graphics-frogger-frog-sprites_50: 1957420077
+      graphics-frogger-frog-sprites_58: -1208906054
+      graphics-frogger-frog-sprites_61: -1306441890
+      graphics-frogger-frog-sprites_38: 1118752625
+      graphics-frogger-frog-sprites_59: 62521026
+      graphics-frogger-frog-sprites_18: -202792036
+      graphics-frogger-frog-sprites_3: 118721146
+      graphics-frogger-frog-sprites_71: -102527046
+      graphics-frogger-frog-sprites_15: -334203481
+      graphics-frogger-frog-sprites_27: -347596061
+      graphics-frogger-frog-sprites_30: -979232212
+      graphics-frogger-frog-sprites_23: 138678481
+      graphics-frogger-frog-sprites_33: 910155856
+      graphics-frogger-frog-sprites_12: 730384182
+      graphics-frogger-frog-sprites_41: 1083812249
+      graphics-frogger-frog-sprites_28: -2063457651
+      graphics-frogger-frog-sprites_14: -1448814588
+      graphics-frogger-frog-sprites_69: 1589829738
+      graphics-frogger-frog-sprites_32: 1023069231
+      graphics-frogger-frog-sprites_49: -1724218880
+      graphics-frogger-frog-sprites_64: 1077306361
+      graphics-frogger-frog-sprites_17: -1421146630
+      graphics-frogger-frog-sprites_79: 1813566342
+      graphics-frogger-frog-sprites_74: 1968815871
+      graphics-frogger-frog-sprites_40: -327810455
+      graphics-frogger-frog-sprites_13: 239113759
+      graphics-frogger-frog-sprites_37: -1543125738
+      graphics-frogger-frog-sprites_76: 1070961082
+      graphics-frogger-frog-sprites_24: 232924489
+      graphics-frogger-frog-sprites_65: -1795745723
+      graphics-frogger-frog-sprites_36: 2010564688
+      graphics-frogger-frog-sprites_57: -355841349
+      graphics-frogger-frog-sprites_82: -2050273028
+      graphics-frogger-frog-sprites_68: -297693993
+      graphics-frogger-frog-sprites_45: -1723605441
+      graphics-frogger-frog-sprites_86: -539672407
+      graphics-frogger-frog-sprites_25: -2093989733
+      graphics-frogger-frog-sprites_5: -621740786
+      graphics-frogger-frog-sprites_95: -400695447
+      graphics-frogger-frog-sprites_0: -150283095
+      graphics-frogger-frog-sprites_6: 872558903
+      graphics-frogger-frog-sprites_43: -1821379929
+      graphics-frogger-frog-sprites_73: 2126724234
+      graphics-frogger-frog-sprites_8: -2115462868
+      graphics-frogger-frog-sprites_67: -1252971245
+      graphics-frogger-frog-sprites_46: 292987703
+      graphics-frogger-frog-sprites_92: -1006784901
+      graphics-frogger-frog-sprites_26: 541365834
+      graphics-frogger-frog-sprites_81: 634853967
+      graphics-frogger-frog-sprites_94: -996445545
+      graphics-frogger-frog-sprites_80: 522299749
+      graphics-frogger-frog-sprites_52: 322797157
+      graphics-frogger-frog-sprites_90: -84053821
+      graphics-frogger-frog-sprites_34: -1912518869
+      graphics-frogger-frog-sprites_22: -12968600
+      graphics-frogger-frog-sprites_78: -247073554
+      graphics-frogger-frog-sprites_10: 481209580
+      graphics-frogger-frog-sprites_16: -1384597899
+      graphics-frogger-frog-sprites_11: 2133741650
+      graphics-frogger-frog-sprites_56: 307303228
+      graphics-frogger-frog-sprites_1: 837879347
+      graphics-frogger-frog-sprites_9: 2098343742
+      graphics-frogger-frog-sprites_48: 147133791
+      graphics-frogger-frog-sprites_35: 377801315
+      graphics-frogger-frog-sprites_51: 530397162
+      graphics-frogger-frog-sprites_39: -1829444085
+      graphics-frogger-frog-sprites_63: -696349809
+      graphics-frogger-frog-sprites_85: -779181721
+      graphics-frogger-frog-sprites_93: -1218546720
+      graphics-frogger-frog-sprites_66: -278808027
+      graphics-frogger-frog-sprites_19: 159928345
+      graphics-frogger-frog-sprites_88: -1481930175
+      graphics-frogger-frog-sprites_83: -1561136314
+      graphics-frogger-frog-sprites_84: 324310050
+      graphics-frogger-frog-sprites_72: -1065109587
+      graphics-frogger-frog-sprites_7: -1680751649
+      graphics-frogger-frog-sprites_53: 1199658460
+      graphics-frogger-frog-sprites_44: 1672075761
+      graphics-frogger-frog-sprites_20: 1120816028
+      graphics-frogger-frog-sprites_42: -253952546
+      graphics-frogger-frog-sprites_75: -140202440
+      graphics-frogger-frog-sprites_2: -1314614825
+      graphics-frogger-frog-sprites_31: -1037307697
+      graphics-frogger-frog-sprites_60: 1527830126
+      graphics-frogger-frog-sprites_55: 664543887
+      graphics-frogger-frog-sprites_70: 594516712
+      graphics-frogger-frog-sprites_62: -985790665
+      graphics-frogger-frog-sprites_29: 1695808927
+      graphics-frogger-frog-sprites_91: -408707572
+      graphics-frogger-frog-sprites_4: -407156055
+      graphics-frogger-frog-sprites_21: -1418693814
+      graphics-frogger-frog-sprites_77: -455436989
+      graphics-frogger-frog-sprites_47: 782807990
+      graphics-frogger-frog-sprites_87: 1054682727
+      graphics-frogger-frog-sprites_54: -179633706
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
